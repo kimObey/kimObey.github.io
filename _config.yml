@@ -21,7 +21,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 locale: "ko-KR" #"en-US"
 title: "kimObey"
 title_separator: "&#124;"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: "서브타이틀"
 name: "your name here" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
 url: "https://kimobey.github.io" # 블로그 URL
