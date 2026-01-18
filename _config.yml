@@ -22,8 +22,8 @@ locale: "ko-KR" #"en-US"
 title: "kimObey"
 title_separator: "&#124;"
 subtitle: "서브타이틀"
-name: "your name here" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
+name: "블로그 닉네임 테스트" # 블로그 닉네임 설정
+description: "kimObey Devlog" # 블로그 설명
 url: "https://kimobey.github.io" # 블로그 URL
 baseurl: ""
 repository: "kimObey/kimObey.github.io" # GitHub Repo 이름
