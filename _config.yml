@@ -21,8 +21,8 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 locale: "ko-KR" #"en-US"
 title: "kimObey"
 title_separator: "&#124;"
-subtitle: "서브타이틀"
-name: "블로그 닉네임 테스트" # 블로그 닉네임 설정
+subtitle: #타이틀 아래 조그맣게 나옴
+name: "kimObey Devlog" # 블로그 닉네임 설정, 맨 아래 2026~뒤에 붙는다.
 description: "kimObey Devlog" # 블로그 설명
 url: "https://kimobey.github.io" # 블로그 URL
 baseurl: ""
